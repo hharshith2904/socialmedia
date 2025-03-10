@@ -13,3 +13,12 @@ This repository holds the information for the making of the social media applica
 3. They can post media.
 4. Users can text each other.
 5. Users can use follow feature to keep themselves posted aabout people they like, or companies.
+## Technologies Used:
+- React
+- Node.js
+- MongoDB
+- Express.js
+## Contacts:
+- 'Y' on Instagram
+- 'Y' on X
+- YTech@gmail.com
